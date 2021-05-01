@@ -1,2 +1,3 @@
 # CV-Zuritask
-my cv html project
+
+https://gothabby.github.io/CV-Zuritask/
