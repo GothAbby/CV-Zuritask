@@ -1,3 +1,3 @@
 # CV-Zuritask
 
-https://gothabby.github.io/CV-Zuritask/index.html/
+https://gothabby.github.io/CV-Zuritask/
